@@ -1,0 +1,24 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "Very simple HTTP server with node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdrissHassani11/node-server-exemple.git"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "javascript"
+  ],
+  "author": "Idriss Hassani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IdrissHassani11/node-server-exemple/issues"
+  },
+  "homepage": "https://github.com/IdrissHassani11/node-server-exemple#readme"
+}
